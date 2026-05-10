@@ -551,7 +551,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 634607246122978584, guid: 66a559519f3564bd695abcbff2b415ad, type: 3}
       propertyPath: m_Name
-      value: ball-white
+      value: White Ball
       objectReference: {fileID: 0}
     - target: {fileID: 2495587414876429691, guid: 66a559519f3564bd695abcbff2b415ad, type: 3}
       propertyPath: m_LocalPosition.x
@@ -704,7 +704,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 634607246122978584, guid: 66a559519f3564bd695abcbff2b415ad, type: 3}
       propertyPath: m_Name
-      value: ball-black
+      value: Black Ball
       objectReference: {fileID: 0}
     - target: {fileID: 2495587414876429691, guid: 66a559519f3564bd695abcbff2b415ad, type: 3}
       propertyPath: m_LocalPosition.x
